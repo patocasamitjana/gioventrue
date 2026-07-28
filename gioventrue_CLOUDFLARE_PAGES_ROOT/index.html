@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Gioventrue | Tienda de accesorios</title>
+  <meta name="description" content="Gioventrue: tienda de accesorios para mujer y niña. Mochilas, baberos, diademas y mayoreo." />
+  <link rel="icon" href="assets/logo.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="topbar"><a href="#/ayuda">Buscar tienda</a><span></span><a href="#/ayuda">Ayuda</a><span></span><a href="#/mayoreo">Mayoreo</a><span></span><a href="#/contacto">Contacto</a></div>
+  <header class="header">
+    <nav class="nav">
+      <a href="#/" class="logo"><img src="assets/logo.svg" alt="Gioventrue"></a>
+      <button class="mobile-menu" id="mobileMenu" aria-label="Abrir menú"><span></span><span></span><span></span></button>
+      <div class="nav-links" id="navLinks">
+        <a href="#/productos?cat=mochilas">Mochilas</a>
+        <a href="#/productos?cat=baberos">Baberos</a>
+        <a href="#/productos?cat=diademas">Diademas</a>
+        <a href="#/productos?best=true">Best Sellers</a>
+        <a href="#/mayoreo">Mayoreo</a>
+      </div>
+      <div class="nav-actions">
+        <label class="search"><span>⌕</span><input id="globalSearch" placeholder="Buscar" /></label>
+        <button id="favoritesBtn" class="circle-btn" aria-label="Favoritos">♡</button>
+        <button id="openCart" class="bag-btn" aria-label="Abrir bolsa"><span>Bolsa</span><b id="cartCount">0</b></button>
+      </div>
+    </nav>
+  </header>
+
+  <main id="app"></main>
+
+  <aside class="cart" id="cart" aria-hidden="true">
+    <div class="cart-backdrop" data-close-cart></div>
+    <section class="cart-panel">
+      <div class="cart-head"><h2>Bolsa</h2><button data-close-cart>×</button></div>
+      <div id="cartItems" class="cart-items"></div>
+      <div id="cartEmpty" class="cart-empty"><strong>Tu bolsa está vacía</strong><span>Agrega productos para preparar tu pedido.</span></div>
+      <div class="cart-foot">
+        <div class="subtotal"><span>Subtotal</span><strong id="cartTotal">$0</strong></div>
+        <p>El total es estimado. Disponibilidad, envío y descuentos se confirman por WhatsApp.</p>
+        <button id="checkoutBtn" class="primary full">Finalizar por WhatsApp</button>
+        <button id="clearCart" class="link-btn">Vaciar bolsa</button>
+      </div>
+    </section>
+  </aside>
+
+  <footer class="footer">
+    <div><h3>Recursos</h3><a href="#/ayuda">Ayuda</a><a href="#/mayoreo">Mayoreo</a><a href="#/contacto">Contacto</a></div>
+    <div><h3>Comprar</h3><a href="#/productos">Todos los productos</a><a href="#/productos?cat=mochilas">Mochilas</a><a href="#/productos?cat=baberos">Baberos</a><a href="#/productos?cat=diademas">Diademas</a></div>
+    <div><h3>Contacto</h3><a href="https://wa.me/525548387767">WhatsApp: +52 55 4838 7767</a><a href="mailto:tmorales@gmail.com">tmorales@gmail.com</a><span>Ciudad de México</span></div>
+    <div><h3>Gioventrue</h3><p>Accesorios para mujer y niña. Compra por pieza o mayoreo.</p></div>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>
