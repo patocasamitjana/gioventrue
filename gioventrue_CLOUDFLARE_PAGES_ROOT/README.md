@@ -9,7 +9,7 @@ Tienda estática completa con:
 - Contacto: tmorales@gmail.com
 
 ## Fotos
-El Excel solo contiene imágenes embebidas de baja resolución (220×145 px o 210×140 px). En esta versión se ampliaron y se acomodaron en fondos neutros para evitar que se vean estiradas, pero para una tienda tipo Nike real necesitas fotos originales de mínimo 1200 px.
+Fotos de producto reales en alta resolución (1200×960 px), 4 por producto en `assets/products/`.
 
 ## Abrir
 ```bash
