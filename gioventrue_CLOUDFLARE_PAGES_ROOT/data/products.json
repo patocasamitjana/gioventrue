@@ -304,5 +304,1835 @@
       "Medidas: Alto 15 cm x Largo 18 cm x Ancho 6 cm",
       "Stock disponible: 200"
     ]
+  },
+  {
+    "sku": "MOCH-06",
+    "name": "Mochila escolar lentejuela",
+    "brand": "Gioventrue",
+    "category": "mochilas",
+    "categoryLabel": "Mochilas",
+    "audience": "Niña",
+    "color": null,
+    "price": 299,
+    "stock": 80,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Mochila escolar lentejuela.",
+    "longDescription": "Mochila escolar lentejuela. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/moch-06.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "moch-06",
+    "features": [
+      "Categoría: Mochilas",
+      "Stock disponible: 80"
+    ]
+  },
+  {
+    "sku": "MOCH-07",
+    "name": "Maleta balerina",
+    "brand": "Gioventrue",
+    "category": "mochilas",
+    "categoryLabel": "Mochilas",
+    "audience": "Niña",
+    "color": null,
+    "price": 299,
+    "stock": 40,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Maleta balerina.",
+    "longDescription": "Maleta balerina. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/moch-07.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "moch-07",
+    "features": [
+      "Categoría: Mochilas",
+      "Stock disponible: 40"
+    ]
+  },
+  {
+    "sku": "MOCH-08",
+    "name": "Maleta balerina",
+    "brand": "Gioventrue",
+    "category": "mochilas",
+    "categoryLabel": "Mochilas",
+    "audience": "Niña",
+    "color": null,
+    "price": 299,
+    "stock": 40,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Maleta balerina.",
+    "longDescription": "Maleta balerina. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/moch-08.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "moch-08",
+    "features": [
+      "Categoría: Mochilas",
+      "Stock disponible: 40"
+    ]
+  },
+  {
+    "sku": "MOCH-09",
+    "name": "Maleta balerina",
+    "brand": "Gioventrue",
+    "category": "mochilas",
+    "categoryLabel": "Mochilas",
+    "audience": "Niña",
+    "color": null,
+    "price": 299,
+    "stock": 80,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Maleta balerina.",
+    "longDescription": "Maleta balerina. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/moch-09.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "moch-09",
+    "features": [
+      "Categoría: Mochilas",
+      "Stock disponible: 80"
+    ]
+  },
+  {
+    "sku": "MOCH-10",
+    "name": "Mochila de gel",
+    "brand": "Gioventrue",
+    "category": "mochilas",
+    "categoryLabel": "Mochilas",
+    "audience": "Niña",
+    "color": null,
+    "price": 249,
+    "stock": 50,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Mochila de gel.",
+    "longDescription": "Mochila de gel. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/moch-10.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "moch-10",
+    "features": [
+      "Categoría: Mochilas",
+      "Stock disponible: 50"
+    ]
+  },
+  {
+    "sku": "MOCH-11",
+    "name": "Mochila de gel",
+    "brand": "Gioventrue",
+    "category": "mochilas",
+    "categoryLabel": "Mochilas",
+    "audience": "Niña",
+    "color": null,
+    "price": 249,
+    "stock": 12,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Mochila de gel.",
+    "longDescription": "Mochila de gel. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/moch-11.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "moch-11",
+    "features": [
+      "Categoría: Mochilas",
+      "Stock disponible: 12"
+    ]
+  },
+  {
+    "sku": "MOCH-12",
+    "name": "Mochila estampada",
+    "brand": "Gioventrue",
+    "category": "mochilas",
+    "categoryLabel": "Mochilas",
+    "audience": "Niña",
+    "color": null,
+    "price": 249,
+    "stock": 250,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Mochila estampada.",
+    "longDescription": "Mochila estampada. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/moch-12.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "moch-12",
+    "features": [
+      "Categoría: Mochilas",
+      "Stock disponible: 250"
+    ]
+  },
+  {
+    "sku": "MOCH-13",
+    "name": "Mochila estampada",
+    "brand": "Gioventrue",
+    "category": "mochilas",
+    "categoryLabel": "Mochilas",
+    "audience": "Niña",
+    "color": null,
+    "price": 249,
+    "stock": 250,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Mochila estampada.",
+    "longDescription": "Mochila estampada. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/moch-13.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "moch-13",
+    "features": [
+      "Categoría: Mochilas",
+      "Stock disponible: 250"
+    ]
+  },
+  {
+    "sku": "MOCH-14",
+    "name": "Mochila estampada",
+    "brand": "Gioventrue",
+    "category": "mochilas",
+    "categoryLabel": "Mochilas",
+    "audience": "Niña",
+    "color": null,
+    "price": 249,
+    "stock": 250,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Mochila estampada.",
+    "longDescription": "Mochila estampada. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/moch-14.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "moch-14",
+    "features": [
+      "Categoría: Mochilas",
+      "Stock disponible: 250"
+    ]
+  },
+  {
+    "sku": "MOCH-15",
+    "name": "Mochila estampada",
+    "brand": "Gioventrue",
+    "category": "mochilas",
+    "categoryLabel": "Mochilas",
+    "audience": "Niña",
+    "color": null,
+    "price": 299,
+    "stock": 250,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Mochila estampada.",
+    "longDescription": "Mochila estampada. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/moch-15.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "moch-15",
+    "features": [
+      "Categoría: Mochilas",
+      "Stock disponible: 250"
+    ]
+  },
+  {
+    "sku": "MOCH-16",
+    "name": "Mochila estampada",
+    "brand": "Gioventrue",
+    "category": "mochilas",
+    "categoryLabel": "Mochilas",
+    "audience": "Niña",
+    "color": null,
+    "price": 299,
+    "stock": 250,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Mochila estampada.",
+    "longDescription": "Mochila estampada. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/moch-16.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "moch-16",
+    "features": [
+      "Categoría: Mochilas",
+      "Stock disponible: 250"
+    ]
+  },
+  {
+    "sku": "MOCH-17",
+    "name": "Mochila estampada",
+    "brand": "Gioventrue",
+    "category": "mochilas",
+    "categoryLabel": "Mochilas",
+    "audience": "Niña",
+    "color": null,
+    "price": 299,
+    "stock": 250,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Mochila estampada.",
+    "longDescription": "Mochila estampada. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/moch-17.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "moch-17",
+    "features": [
+      "Categoría: Mochilas",
+      "Stock disponible: 250"
+    ]
+  },
+  {
+    "sku": "MOCH-18",
+    "name": "Mochila pequeña",
+    "brand": "Gioventrue",
+    "category": "mochilas",
+    "categoryLabel": "Mochilas",
+    "audience": "Niña",
+    "color": null,
+    "price": 129,
+    "stock": 60,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Mochila pequeña.",
+    "longDescription": "Mochila pequeña. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/moch-18.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "moch-18",
+    "features": [
+      "Categoría: Mochilas",
+      "Stock disponible: 60"
+    ]
+  },
+  {
+    "sku": "MOCH-19",
+    "name": "Mochila pequeña",
+    "brand": "Gioventrue",
+    "category": "mochilas",
+    "categoryLabel": "Mochilas",
+    "audience": "Niña",
+    "color": null,
+    "price": 129,
+    "stock": 60,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Mochila pequeña.",
+    "longDescription": "Mochila pequeña. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/moch-19.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "moch-19",
+    "features": [
+      "Categoría: Mochilas",
+      "Stock disponible: 60"
+    ]
+  },
+  {
+    "sku": "MOCH-20",
+    "name": "Mochila pequeña",
+    "brand": "Gioventrue",
+    "category": "mochilas",
+    "categoryLabel": "Mochilas",
+    "audience": "Niña",
+    "color": null,
+    "price": 129,
+    "stock": 60,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Mochila pequeña.",
+    "longDescription": "Mochila pequeña. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/moch-20.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "moch-20",
+    "features": [
+      "Categoría: Mochilas",
+      "Stock disponible: 60"
+    ]
+  },
+  {
+    "sku": "CORO-01",
+    "name": "Corona Princesa",
+    "brand": "Gioventrue",
+    "category": "accesorios",
+    "categoryLabel": "Accesorios",
+    "audience": "Niña",
+    "color": null,
+    "price": 249,
+    "stock": 100,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Corona Princesa.",
+    "longDescription": "Corona Princesa. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/coro-01.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "coro-01",
+    "features": [
+      "Categoría: Accesorios",
+      "Stock disponible: 100"
+    ]
+  },
+  {
+    "sku": "MONO-01",
+    "name": "Set de moños",
+    "brand": "Gioventrue",
+    "category": "accesorios",
+    "categoryLabel": "Accesorios",
+    "audience": "Niña",
+    "color": null,
+    "price": 199,
+    "stock": 60,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Set de moños.",
+    "longDescription": "Set de moños. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/mono-01.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "mono-01",
+    "features": [
+      "Categoría: Accesorios",
+      "Stock disponible: 60"
+    ]
+  },
+  {
+    "sku": "GORR-01",
+    "name": "Gorro playa",
+    "brand": "Gioventrue",
+    "category": "accesorios",
+    "categoryLabel": "Accesorios",
+    "audience": "Niña",
+    "color": null,
+    "price": 149,
+    "stock": 30,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Gorro playa.",
+    "longDescription": "Gorro playa. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/gorr-01.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "gorr-01",
+    "features": [
+      "Categoría: Accesorios",
+      "Stock disponible: 30"
+    ]
+  },
+  {
+    "sku": "GORR-02",
+    "name": "Gorro playa",
+    "brand": "Gioventrue",
+    "category": "accesorios",
+    "categoryLabel": "Accesorios",
+    "audience": "Niña",
+    "color": null,
+    "price": 149,
+    "stock": 30,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Gorro playa.",
+    "longDescription": "Gorro playa. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/gorr-02.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "gorr-02",
+    "features": [
+      "Categoría: Accesorios",
+      "Stock disponible: 30"
+    ]
+  },
+  {
+    "sku": "GORR-03",
+    "name": "Gorro playa",
+    "brand": "Gioventrue",
+    "category": "accesorios",
+    "categoryLabel": "Accesorios",
+    "audience": "Niña",
+    "color": null,
+    "price": 149,
+    "stock": 30,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Gorro playa.",
+    "longDescription": "Gorro playa. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/gorr-03.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "gorr-03",
+    "features": [
+      "Categoría: Accesorios",
+      "Stock disponible: 30"
+    ]
+  },
+  {
+    "sku": "BAND-01",
+    "name": "Banda Mamá e Hija",
+    "brand": "Gioventrue",
+    "category": "bandas",
+    "categoryLabel": "Bandas",
+    "audience": "Bebé",
+    "color": null,
+    "price": 149,
+    "stock": 50,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Banda Mamá e Hija.",
+    "longDescription": "Banda Mamá e Hija. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/band-01.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "band-01",
+    "features": [
+      "Categoría: Bandas",
+      "Stock disponible: 50"
+    ]
+  },
+  {
+    "sku": "BAND-02",
+    "name": "Banda Mamá e Hija",
+    "brand": "Gioventrue",
+    "category": "bandas",
+    "categoryLabel": "Bandas",
+    "audience": "Bebé",
+    "color": null,
+    "price": 149,
+    "stock": 50,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Banda Mamá e Hija.",
+    "longDescription": "Banda Mamá e Hija. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/band-02.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "band-02",
+    "features": [
+      "Categoría: Bandas",
+      "Stock disponible: 50"
+    ]
+  },
+  {
+    "sku": "BAND-03",
+    "name": "Banda Mamá e Hija",
+    "brand": "Gioventrue",
+    "category": "bandas",
+    "categoryLabel": "Bandas",
+    "audience": "Bebé",
+    "color": null,
+    "price": 149,
+    "stock": 50,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Banda Mamá e Hija.",
+    "longDescription": "Banda Mamá e Hija. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/band-03.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "band-03",
+    "features": [
+      "Categoría: Bandas",
+      "Stock disponible: 50"
+    ]
+  },
+  {
+    "sku": "BAND-04",
+    "name": "Banda Mamá e Hija",
+    "brand": "Gioventrue",
+    "category": "bandas",
+    "categoryLabel": "Bandas",
+    "audience": "Bebé",
+    "color": null,
+    "price": 149,
+    "stock": 50,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Banda Mamá e Hija.",
+    "longDescription": "Banda Mamá e Hija. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/band-04.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "band-04",
+    "features": [
+      "Categoría: Bandas",
+      "Stock disponible: 50"
+    ]
+  },
+  {
+    "sku": "BAND-05",
+    "name": "Banda Mamá e Hija",
+    "brand": "Gioventrue",
+    "category": "bandas",
+    "categoryLabel": "Bandas",
+    "audience": "Bebé",
+    "color": null,
+    "price": 149,
+    "stock": 50,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Banda Mamá e Hija.",
+    "longDescription": "Banda Mamá e Hija. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/band-05.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "band-05",
+    "features": [
+      "Categoría: Bandas",
+      "Stock disponible: 50"
+    ]
+  },
+  {
+    "sku": "BAB-04",
+    "name": "Set de babero con banda",
+    "brand": "Gioventrue",
+    "category": "baberos",
+    "categoryLabel": "Baberos",
+    "audience": "Bebé",
+    "color": null,
+    "price": 299,
+    "stock": 300,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Set de babero con banda.",
+    "longDescription": "Set de babero con banda. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/bab-04.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "bab-04",
+    "features": [
+      "Categoría: Baberos",
+      "Stock disponible: 300"
+    ]
+  },
+  {
+    "sku": "BAB-05",
+    "name": "Set de babero con banda",
+    "brand": "Gioventrue",
+    "category": "baberos",
+    "categoryLabel": "Baberos",
+    "audience": "Bebé",
+    "color": null,
+    "price": 299,
+    "stock": 300,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Set de babero con banda.",
+    "longDescription": "Set de babero con banda. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/bab-05.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "bab-05",
+    "features": [
+      "Categoría: Baberos",
+      "Stock disponible: 300"
+    ]
+  },
+  {
+    "sku": "BAB-06",
+    "name": "Set de babero con banda",
+    "brand": "Gioventrue",
+    "category": "baberos",
+    "categoryLabel": "Baberos",
+    "audience": "Bebé",
+    "color": null,
+    "price": 299,
+    "stock": 300,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Set de babero con banda.",
+    "longDescription": "Set de babero con banda. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/bab-06.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "bab-06",
+    "features": [
+      "Categoría: Baberos",
+      "Stock disponible: 300"
+    ]
+  },
+  {
+    "sku": "BRO-01",
+    "name": "Broche Mar",
+    "brand": "Gioventrue",
+    "category": "broches",
+    "categoryLabel": "Broches",
+    "audience": "Dama",
+    "color": null,
+    "price": 149,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Broche Mar.",
+    "longDescription": "Broche Mar. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/bro-01.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "bro-01",
+    "features": [
+      "Categoría: Broches",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "BRO-02",
+    "name": "Broche hoja",
+    "brand": "Gioventrue",
+    "category": "broches",
+    "categoryLabel": "Broches",
+    "audience": "Dama",
+    "color": null,
+    "price": 199,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Broche hoja.",
+    "longDescription": "Broche hoja. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/bro-02.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "bro-02",
+    "features": [
+      "Categoría: Broches",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "PAS-01",
+    "name": "Pasador Mar",
+    "brand": "Gioventrue",
+    "category": "pasadores",
+    "categoryLabel": "Pasadores",
+    "audience": "Dama",
+    "color": null,
+    "price": 149,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Pasador Mar.",
+    "longDescription": "Pasador Mar. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/pas-01.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "pas-01",
+    "features": [
+      "Categoría: Pasadores",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "BRO-03",
+    "name": "Broche Mar",
+    "brand": "Gioventrue",
+    "category": "broches",
+    "categoryLabel": "Broches",
+    "audience": "Dama",
+    "color": null,
+    "price": 149,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Broche Mar.",
+    "longDescription": "Broche Mar. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/bro-03.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "bro-03",
+    "features": [
+      "Categoría: Broches",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "BRO-04",
+    "name": "Broche hoja",
+    "brand": "Gioventrue",
+    "category": "broches",
+    "categoryLabel": "Broches",
+    "audience": "Dama",
+    "color": null,
+    "price": 199,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Broche hoja.",
+    "longDescription": "Broche hoja. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/bro-04.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "bro-04",
+    "features": [
+      "Categoría: Broches",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "BRO-05",
+    "name": "Broche Minimalista",
+    "brand": "Gioventrue",
+    "category": "broches",
+    "categoryLabel": "Broches",
+    "audience": "Dama",
+    "color": null,
+    "price": 149,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Broche Minimalista.",
+    "longDescription": "Broche Minimalista. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/bro-05.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "bro-05",
+    "features": [
+      "Categoría: Broches",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "BRO-06",
+    "name": "Broche Flor",
+    "brand": "Gioventrue",
+    "category": "broches",
+    "categoryLabel": "Broches",
+    "audience": "Dama",
+    "color": null,
+    "price": 149,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Broche Flor.",
+    "longDescription": "Broche Flor. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/bro-06.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "bro-06",
+    "features": [
+      "Categoría: Broches",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "BRO-07",
+    "name": "Broche Frances",
+    "brand": "Gioventrue",
+    "category": "broches",
+    "categoryLabel": "Broches",
+    "audience": "Dama",
+    "color": null,
+    "price": 149,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Broche Frances.",
+    "longDescription": "Broche Frances. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/bro-07.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "bro-07",
+    "features": [
+      "Categoría: Broches",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "PAS-02",
+    "name": "Set de Pasadores",
+    "brand": "Gioventrue",
+    "category": "pasadores",
+    "categoryLabel": "Pasadores",
+    "audience": "Dama",
+    "color": null,
+    "price": 149,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Set de Pasadores.",
+    "longDescription": "Set de Pasadores. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/pas-02.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "pas-02",
+    "features": [
+      "Categoría: Pasadores",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "BRO-08",
+    "name": "Broche hoja",
+    "brand": "Gioventrue",
+    "category": "broches",
+    "categoryLabel": "Broches",
+    "audience": "Dama",
+    "color": null,
+    "price": 199,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Broche hoja.",
+    "longDescription": "Broche hoja. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/bro-08.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "bro-08",
+    "features": [
+      "Categoría: Broches",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "COLE-01",
+    "name": "Coletero",
+    "brand": "Gioventrue",
+    "category": "coleteros",
+    "categoryLabel": "Coleteros",
+    "audience": "Dama",
+    "color": null,
+    "price": 149,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Coletero.",
+    "longDescription": "Coletero. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/cole-01.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "cole-01",
+    "features": [
+      "Categoría: Coleteros",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "COLE-02",
+    "name": "Coletero",
+    "brand": "Gioventrue",
+    "category": "coleteros",
+    "categoryLabel": "Coleteros",
+    "audience": "Dama",
+    "color": null,
+    "price": 149,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Coletero.",
+    "longDescription": "Coletero. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/cole-02.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "cole-02",
+    "features": [
+      "Categoría: Coleteros",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "BRO-09",
+    "name": "Broches hojas",
+    "brand": "Gioventrue",
+    "category": "broches",
+    "categoryLabel": "Broches",
+    "audience": "Dama",
+    "color": null,
+    "price": 199,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Broches hojas.",
+    "longDescription": "Broches hojas. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/bro-09.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "bro-09",
+    "features": [
+      "Categoría: Broches",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "BRO-10",
+    "name": "Broches Frances Perlas",
+    "brand": "Gioventrue",
+    "category": "broches",
+    "categoryLabel": "Broches",
+    "audience": "Dama",
+    "color": null,
+    "price": 199,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Broches Frances Perlas.",
+    "longDescription": "Broches Frances Perlas. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/bro-10.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "bro-10",
+    "features": [
+      "Categoría: Broches",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "BANDAD-01",
+    "name": "Banda",
+    "brand": "Gioventrue",
+    "category": "bandas-dama",
+    "categoryLabel": "Bandas",
+    "audience": "Dama",
+    "color": null,
+    "price": 299,
+    "stock": 40,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Banda.",
+    "longDescription": "Banda. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/bandad-01.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "bandad-01",
+    "features": [
+      "Categoría: Bandas",
+      "Stock disponible: 40"
+    ]
+  },
+  {
+    "sku": "DIAD-01",
+    "name": "Diadema Metalica",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 299,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Diadema Metalica.",
+    "longDescription": "Diadema Metalica. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-01.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-01",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "DIAD-02",
+    "name": "Diadema Mar",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 299,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Diadema Mar.",
+    "longDescription": "Diadema Mar. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-02.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-02",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "DIAD-03",
+    "name": "Diadema Flor",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 299,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Diadema Flor.",
+    "longDescription": "Diadema Flor. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-03.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-03",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "DIAD-04",
+    "name": "Diadema Hojas",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 299,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Diadema Hojas.",
+    "longDescription": "Diadema Hojas. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-04.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-04",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "DIAD-05",
+    "name": "Diadema Flor Perla",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 299,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Diadema Flor Perla.",
+    "longDescription": "Diadema Flor Perla. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-05.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-05",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "DIAD-06",
+    "name": "Maxi Diadema Pedreria",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 499,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Maxi Diadema Pedreria.",
+    "longDescription": "Maxi Diadema Pedreria. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-06.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-06",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "DIAD-07",
+    "name": "Maxi Diadema Pedreria",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 499,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Maxi Diadema Pedreria.",
+    "longDescription": "Maxi Diadema Pedreria. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-07.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-07",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "DIAD-08",
+    "name": "Maxi Diadema Perlas",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 399,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Maxi Diadema Perlas.",
+    "longDescription": "Maxi Diadema Perlas. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-08.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-08",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "DIAD-09",
+    "name": "Diadema Perlas",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 349,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Diadema Perlas.",
+    "longDescription": "Diadema Perlas. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-09.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-09",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "DIAD-10",
+    "name": "Diadema de Mezclilla",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 299,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Diadema de Mezclilla.",
+    "longDescription": "Diadema de Mezclilla. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-10.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-10",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "DIAD-11",
+    "name": "Maxi Diadema",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 399,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Maxi Diadema.",
+    "longDescription": "Maxi Diadema. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-11.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-11",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "DIAD-12",
+    "name": "Maxi Diadema Trenzada",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 299,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Maxi Diadema Trenzada.",
+    "longDescription": "Maxi Diadema Trenzada. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-12.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-12",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "DIAD-13",
+    "name": "Diadema Nudo",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 299,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Diadema Nudo.",
+    "longDescription": "Diadema Nudo. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-13.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-13",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "DIAD-14",
+    "name": "Diadema Nudo",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 299,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Diadema Nudo.",
+    "longDescription": "Diadema Nudo. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-14.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-14",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "DIAD-15",
+    "name": "Diadema Estoperoles",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 249,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Diadema Estoperoles.",
+    "longDescription": "Diadema Estoperoles. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-15.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-15",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "DIAD-16",
+    "name": "Diadema Nudo",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 299,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Diadema Nudo.",
+    "longDescription": "Diadema Nudo. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-16.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-16",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "DIAD-17",
+    "name": "Diadema Nudo",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 249,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Diadema Nudo.",
+    "longDescription": "Diadema Nudo. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-17.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-17",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
+  },
+  {
+    "sku": "DIAD-18",
+    "name": "Diadema Nudo",
+    "brand": "Gioventrue",
+    "category": "diademas-dama",
+    "categoryLabel": "Diademas",
+    "audience": "Dama",
+    "color": null,
+    "price": 249,
+    "stock": 10,
+    "material": null,
+    "measurements": null,
+    "weight": null,
+    "size": "Talla única",
+    "shortDescription": "Diadema Nudo.",
+    "longDescription": "Diadema Nudo. Especificaciones detalladas (material, medidas, peso) por confirmar.",
+    "warranty": "Garantía contra defectos de fabricación. No aplica por mal uso, desgaste natural, manchas, ruptura por uso indebido o daños por lavado incorrecto.",
+    "warrantyPeriod": "3-meses",
+    "satProductCode": null,
+    "images": [
+      "assets/products/diad-18.jpg"
+    ],
+    "isBestSeller": false,
+    "isNew": true,
+    "slug": "diad-18",
+    "features": [
+      "Categoría: Diademas",
+      "Stock disponible: 10"
+    ]
   }
 ]

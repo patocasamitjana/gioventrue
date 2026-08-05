@@ -5,19 +5,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Gioventrue | Tienda de accesorios</title>
   <meta name="description" content="Gioventrue: tienda de accesorios para mujer y niña. Mochilas, baberos, diademas y mayoreo." />
+  <meta property="og:title" content="Gioventrue | Tienda de accesorios" />
+  <meta property="og:description" content="Gioventrue: tienda de accesorios para mujer y niña. Mochilas, baberos, diademas y mayoreo." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="assets/logo.svg" />
+  <meta name="twitter:card" content="summary_large_image" />
   <link rel="icon" href="assets/logo.svg" type="image/svg+xml" />
+  <link rel="manifest" href="manifest.json" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <div class="topbar"><a href="#/ayuda">Buscar tienda</a><span></span><a href="#/ayuda">Ayuda</a><span></span><a href="#/mayoreo">Mayoreo</a><span></span><a href="#/contacto">Contacto</a></div>
+  <div class="topbar"><a href="#/ayuda">Ayuda</a><span></span><a href="#/mayoreo">Mayoreo</a><span></span><a href="#/contacto">Contacto</a></div>
   <header class="header">
     <nav class="nav">
       <a href="#/" class="logo"><img src="assets/logo.svg" alt="Gioventrue"></a>
       <button class="mobile-menu" id="mobileMenu" aria-label="Abrir menú"><span></span><span></span><span></span></button>
       <div class="nav-links" id="navLinks">
-        <a href="#/productos?cat=mochilas">Mochilas</a>
-        <a href="#/productos?cat=baberos">Baberos</a>
-        <a href="#/productos?cat=diademas">Diademas</a>
+        <a href="#/productos?audience=Bebé">Bebé</a>
+        <a href="#/productos?audience=Niña">Niña</a>
+        <a href="#/productos?audience=Dama">Dama</a>
         <a href="#/productos?best=true">Best Sellers</a>
         <a href="#/mayoreo">Mayoreo</a>
       </div>
@@ -47,10 +53,10 @@
   </aside>
 
   <footer class="footer">
-    <div><h3>Recursos</h3><a href="#/ayuda">Ayuda</a><a href="#/mayoreo">Mayoreo</a><a href="#/contacto">Contacto</a></div>
-    <div><h3>Comprar</h3><a href="#/productos">Todos los productos</a><a href="#/productos?cat=mochilas">Mochilas</a><a href="#/productos?cat=baberos">Baberos</a><a href="#/productos?cat=diademas">Diademas</a></div>
-    <div><h3>Contacto</h3><a href="https://wa.me/525548387767">WhatsApp: +52 55 4838 7767</a><a href="mailto:tmorales@gmail.com">tmorales@gmail.com</a><span>Ciudad de México</span></div>
-    <div><h3>Gioventrue</h3><p>Accesorios para mujer y niña. Compra por pieza o mayoreo.</p></div>
+    <div><h3>Recursos</h3><a href="#/nosotros">Quiénes somos</a><a href="#/ayuda">Ayuda</a><a href="#/mayoreo">Mayoreo</a><a href="#/contacto">Contacto</a></div>
+    <div><h3>Comprar</h3><a href="#/productos">Todos los productos</a><a href="#/productos?cat=mochilas">Mochilas</a><a href="#/productos?cat=baberos">Baberos</a><a href="#/productos?cat=diademas">Diademas</a><a href="#/productos?audience=Dama">Dama</a></div>
+    <div><h3>Contacto</h3><a href="https://wa.me/525548387767">WhatsApp: +52 55 4838 7767</a><a href="mailto:tmoralesf.gioventrue@gmail.com">tmoralesf.gioventrue@gmail.com</a><span>Ciudad de México</span></div>
+    <div><h3>Gioventrue</h3><p>Accesorios para mujer y niña, con <span class="brand-accent">35 años</span> de trayectoria. Compra por pieza o mayoreo.</p></div>
   </footer>
   <script src="app.js"></script>
 </body>
